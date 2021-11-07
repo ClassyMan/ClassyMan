@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @ClassyMan
+- 👀 I’m interested in lots of stuff, some of which is here, some of which is elsewhere
+  - Programming mechanical keyboards
+  - Building the occasional web application for fun
+  - Coffee
+- 🌱 I’m currently learning ...
+  - Brushing up on algorithms and datastructures
+  - Enterprise integration patterns
+  - Reading about more modern architectures such as microservices
+- 💞️ I’m looking to collaborate on ...
+  - Nothing yet
+- 📫 How to reach me ...
+  - Message me here and in a few years you might get a response. 
