@@ -4,9 +4,9 @@
   - Building the occasional web application for fun
   - Coffee
 - 🌱 I’m currently learning ...
-  - Brushing up on algorithms and datastructures
+  - Brushing up on algorithms and datastructures since it's been a while
+  - Same with system design
   - Enterprise integration patterns
-  - Reading about more modern architectures such as microservices
 - 💞️ I’m looking to collaborate on ...
   - Nothing yet
 - 📫 How to reach me ...
